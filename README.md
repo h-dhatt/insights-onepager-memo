@@ -1,13 +1,14 @@
+# One-Page Insights Memo
 
-# Communication Project: One-Page Insights Memo
-
-## Overview
-This project demonstrates the ability to communicate analytical insights
-clearly and concisely to non-technical stakeholders.
+## Goal
+Communicate analytical findings clearly to non-technical stakeholders.
 
 ## Deliverable
-- A one-page executive-style memo summarizing findings and recommendations
+A one-page executive memo summarizing:
+- The business question
+- Key findings
+- Implications
+- Recommendations
 
-## Why This Matters
-Strong analysts are judged not only by analysis quality, but by their
-ability to communicate impact and guide decisions.
+## Focus
+Clarity, structure, and decision-making — not tools.
